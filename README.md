@@ -37,4 +37,4 @@
 - Try out different LSTM models with different number of hidden layers and different optimizers.
 - Draw confusion matrix.
 - Print score of the predicted data.
-- At the end in conclusion section comapre train log loss, train accuracy, test log loss and test accuracy for each LSTM model.
+- At the end in conclusion section compare train log loss, train accuracy, test log loss and test accuracy for each LSTM model.
